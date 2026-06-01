@@ -32,3 +32,6 @@ Lakshmi Gollapothu
 * Currency Converter
 * Unit Converter
 * AI Math Assistant
+## Screenshot
+
+![Calculator](screenshots/calculator.png)
