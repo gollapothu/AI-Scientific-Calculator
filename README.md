@@ -34,4 +34,4 @@ Lakshmi Gollapothu
 * AI Math Assistant
 ## Screenshot
 
-![Calculator](screenshots/calculator.png)
+![Calculator](screenshots/calculator)
